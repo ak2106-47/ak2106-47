@@ -26,7 +26,7 @@ I am an **AI/ML and Full Stack Developer** pursuing a Master's in Computer Scien
 - 🛠️ **Technical Assistant** @ City of Tempe
 - 💼 Previously @ **Wells Fargo · Shiprocket · Cisco Talent Outreach Program**
 - 🏆 **Wells Fargo Spotlight Award** | Cisco Talent Outreach Selectee @ age 16 | ASU Scholarship | HP CodeWars 2018
-- 🧑‍🏫 Former **C++ Bootcamp Coach** @ College Time | Former Hostel Council & ACM Student Chapter Secretary @ VNIT
+- 🧑‍🏫 Former **C++ Bootcamp Coach** @ College Time | Former Technical Secretary & ACM Student Chapter Secretary @ VNIT
 - 🌎 Based in **Tempe, Arizona, USA**
 - 📬 Open to **Full-Time Roles** in AI/ML, Software Engineering, Data Analytics, Technical Program Management and Product Management immediately
 
