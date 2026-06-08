@@ -35,7 +35,7 @@ I am an **AI/ML and Full Stack Developer** pursuing a Master's in Computer Scien
 - 🧑‍🏫 Former **C++ Bootcamp Coach** @ College Time | Former Technical Secretary @ VNIT & Secretary @ ACM Student Chapter
 - ✍️ Apart from technical interests, I like volunteering for social causes, running marathons, playing soccer and tennis.
 - 🌎 Based in **Tempe, Arizona, USA**
-- 💬 Feel free to reach out to me for any open roles, general consulting, discussions or a casual conversation.
+- 💬 Feel free to reach out to me for any open roles, discussions or a casual conversation.
 - 📬 Open to **Full-Time Roles** in AI/ML, Software Engineering, Data Analytics, Technical Program Management and Product Management.
 
 ---
