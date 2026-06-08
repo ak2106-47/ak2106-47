@@ -23,6 +23,8 @@
 
 ### 🙋 About Me
 
+<img align="right" alt="coding" width="380" src="coding_animated.gif"/>
+
 I am an **AI/ML and Full Stack Developer** pursuing a Master's in Computer Science at Arizona State University. I've been coding since the second grade, and I'm passionate about leveraging technology to build innovative solutions that empower users.
 
 - 🏫 **Master's in Computer Science** @ Arizona State University (GPA: 3.6/4.0) : Graduating May 2026
