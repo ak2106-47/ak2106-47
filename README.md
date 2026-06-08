@@ -1,24 +1,13 @@
 <h1 align="center">Hi, I'm Apoorva Kumar 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/apoorvakumar21/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-logo?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:apoorvakumar2101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/aknz21/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvakumar21/)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvakumar21/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aknz21/)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoorvakumar2101@gmail.com)
 [![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=rss&logoColor=white)](your-website-url)
+</p>
+
+
 
 <p align="center">
   <img src="topimage.png" width="100%"/>
