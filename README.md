@@ -10,7 +10,7 @@
   <a href="mailto:apoorvakumar2101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/aknz21/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -148,6 +148,6 @@ I am an **AI/ML and Full Stack Developer** pursuing a Master's in Computer Scien
 <p align="center">
   <a href="https://www.linkedin.com/in/apoorvakumar21/"><b>LinkedIn</b></a> •
   <a href="mailto:apoorvakumar2101@gmail.com"><b>apoorvakumar2101@gmail.com</b></a> •
-  <a href="#"><b>Instagram</b></a> •
+  <a href="https://www.instagram.com/aknz21/"><b>Instagram</b></a> •
   <a><b>+1 602-784-9691</b></a> 
 </p>
