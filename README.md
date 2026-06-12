@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/apoorvakumar21/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/aknz21/"><img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:apoorvakumar2101@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="apoorvakumartech.com"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=rss&logoColor=white"/></a>
+  <a href="https://apoorvakumartech.com"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=rss&logoColor=white"/></a>
 </p>
 
 
